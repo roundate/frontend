@@ -27,7 +27,7 @@
                 {
                     "sizes": "96x96",
                     "type": "image/png",
-                    "src": "https://roundate.com/static/assets/other/shortcut.png"
+                    "src": "/static/assets/other/shortcut.png"
                 }
             ]
         }
@@ -37,19 +37,19 @@
             "purpose": "any",
             "sizes": "192x192",
             "type": "image/png",
-            "src": "https://roundate.com/static/assets/other/icons/icon192x192.png"
+            "src": "/static/assets/other/icons/icon192x192.png"
         },
         {
             "purpose": "any",
             "sizes": "512x512",
             "type": "image/png",
-            "src": "https://roundate.com/static/assets/other/icons/icon512x512.png"
+            "src": "/static/assets/other/icons/icon512x512.png"
         },
         {
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable",
-            "src": "https://roundate.com/static/assets/other/icons/icon192x192.png"
+            "src": "/static/assets/other/icons/icon192x192.png"
         }
     ]
 }
