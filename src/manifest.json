@@ -1,0 +1,55 @@
+{
+    "lang": "en",
+    "dir": "ltr",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Roundate",
+    "orientation": "any",
+    "categories": ["games"],
+    "display": "fullscreen",
+    "theme_color": "#000000",
+    "short_name": "Roundate",
+    "background_color": "#000000",
+    "id": "https://roundate.com/",
+    "prefer_related_applications": true,
+    "iarc_rating_id": "2055efa8-bf65-4787-8cc2-10fb0e1640d1",
+    "display_override": ["standalone", "minimal-ui", "browser", "window-controls-overlay"],
+    "description": "",
+    "launch_handler": {"client_mode": ["auto", "focus-existing", "navigate-existing", "navigate-new"]},
+    "related_applications": [{"platform": "play", "id": "com.roundate.app", "url": "https://play.google.com/store/apps/details?id=com.roundate.app"}],
+    "shortcuts": [
+        {
+            "url": "/",
+            "name": "Start Round",
+            "short_name": "Start Round",
+            "description": "Start Round",
+            "icons": [
+                {
+                    "sizes": "96x96",
+                    "type": "image/png",
+                    "src": "https://roundate.com/static/assets/other/shortcut.png"
+                }
+            ]
+        }
+    ],
+    "icons": [
+        {
+            "purpose": "any",
+            "sizes": "192x192",
+            "type": "image/png",
+            "src": "https://roundate.com/static/assets/other/icons/icon192x192.png"
+        },
+        {
+            "purpose": "any",
+            "sizes": "512x512",
+            "type": "image/png",
+            "src": "https://roundate.com/static/assets/other/icons/icon512x512.png"
+        },
+        {
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable",
+            "src": "https://roundate.com/static/assets/other/icons/icon192x192.png"
+        }
+    ]
+}
